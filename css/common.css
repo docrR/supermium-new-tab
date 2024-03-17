@@ -128,7 +128,8 @@ div[app]:hover .app-actions {
     padding-top: 35%;
     position: relative;
     text-overflow: ellipsis;
-    width: 150px;
+    width: 200px;
+    font-size: 0pt;
 }
 
 .site-preview:hover {
