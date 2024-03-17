@@ -1,3 +1,7 @@
+Forked
+v3.1
+* Forked for Supermium browser
+
 v3.0
  * Added a no-redirect option for the new tab page, which provides an
    experience similar to Chrome's original page (including search bar focus)
