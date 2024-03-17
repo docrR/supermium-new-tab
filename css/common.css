@@ -243,10 +243,10 @@ footer {
 
 .tab .tab-bar {
     height: 8px;
-    background-color: #ddd;
+    background: linear-gradient(45deg, #9f9f9f 0%, #d7d7d7 50%, #9f9f9f 100%);
     margin-bottom: 6px;
 }
 
 .tab:hover .tab-bar, .tab.active .tab-bar {
-    background-color: #888;
+    background: linear-gradient(45deg, #acef74 0%, #61c419 50%, #acef74 100%);
 }
