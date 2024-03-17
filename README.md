@@ -12,4 +12,6 @@ This extension is a fork of [NewTab Redirect](https://github.com/jimschubert/New
 
 * Font Awesome by Dave Gandy - http://fontawesome.io: Code is MIT licensed, Fonts are SIL OFL 1.1. Details are available [here](http://fontawesome.io/license/)
 
+* Selawik font by Microsoft are available here: https://github.com/microsoft/Selawik
+
 * The new tab icon was released by <em>tango!</em> into the public domain.  Details are available [here](http://en.wikipedia.org/wiki/File:Tab-new.svg)
